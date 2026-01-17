@@ -32,9 +32,9 @@ Users should be able to:
 - **Bonus**: Drag and drop to reorder items on the list
 
 ### Screenshot
-<img width="788" height="1710" alt="Xiaomi-12-localhost (1)" src="https://github.com/user-attachments/assets/cd07de63-80da-409e-905c-692fb94438a6" />
-<img width="788" height="1710" alt="Xiaomi-12-localhost (2)" src="https://github.com/user-attachments/assets/1127844b-e019-4450-ae61-f727d9e2105e" />
-<img width="788" height="1710" alt="Xiaomi-12-localhost (3)" src="https://github.com/user-attachments/assets/7ee7469c-c6de-4176-bdc6-daaccc49c362" />
+<img width="400" height="850" alt="Xiaomi-12-localhost (1)" src="https://github.com/user-attachments/assets/cd07de63-80da-409e-905c-692fb94438a6" />
+<img width="400" height="850" alt="Xiaomi-12-localhost (2)" src="https://github.com/user-attachments/assets/1127844b-e019-4450-ae61-f727d9e2105e" />
+<img width="400" height="850" alt="Xiaomi-12-localhost (3)" src="https://github.com/user-attachments/assets/7ee7469c-c6de-4176-bdc6-daaccc49c362" />
 <img width="2800" height="1608" alt="Macbook-Air-localhost (3)" src="https://github.com/user-attachments/assets/32c49a60-4767-46fe-a689-fdd5e513d27a" />
 <img width="2800" height="1608" alt="Macbook-Air-localhost (4)" src="https://github.com/user-attachments/assets/92033f80-9a7d-4dda-bd09-f3b7d7cde757" />
 <img width="1304" height="1806" alt="iPad-PRO-11-localhost" src="https://github.com/user-attachments/assets/236344f8-6072-4bfe-85c5-62a5dc50fde8" />
@@ -58,7 +58,6 @@ Users should be able to:
 - Vanilla JS
 - SCSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
